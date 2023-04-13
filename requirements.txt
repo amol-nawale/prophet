@@ -5,6 +5,4 @@ seaborn
 yfinance
 datetime
 streamlit
-prophet
-fbprophet
-Prophet
+prophet==1.0
