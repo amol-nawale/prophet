@@ -5,7 +5,7 @@ import seaborn as sns
 import yfinance as yf
 from datetime import date
 import streamlit as st
-from prophet import Prophet
+from fbprophet import Prophet
 
 
 
