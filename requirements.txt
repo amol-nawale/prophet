@@ -6,3 +6,5 @@ yfinance
 datetime
 streamlit
 prophet
+fbprophet
+Prophet
